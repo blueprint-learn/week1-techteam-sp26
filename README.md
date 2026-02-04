@@ -1,5 +1,10 @@
 # Week 1 – FastAPI Basics
 
+## Clone your repo
+```bash
+git clone https://github.com/blueprint-learn/week1-techteam-sp26-{username}
+```
+
 ## Objective
 Build your first FastAPI application and understand how APIs work.
 
