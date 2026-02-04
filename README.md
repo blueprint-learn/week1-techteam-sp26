@@ -23,8 +23,10 @@ Returns:
 { "item_id": 3 }
 ```
 ### Running locally
+```bash
 pip install -r requirements.txt
 uvicorn app.main:app --reload
+```
 
 ### Submission
 Push your code to GitHub. Tests will run automatically.
